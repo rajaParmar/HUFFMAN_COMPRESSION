@@ -1,0 +1,29 @@
+@ 100
+a 45
+null
+null
+@ 55
+@ 25
+c 12
+null
+null
+b 13
+null
+null
+@ 30
+@ 14
+f 5
+null
+null
+e 9
+null
+null
+d 16
+null
+null
+a->0
+c->100
+b->101
+f->1100
+e->1101
+d->111

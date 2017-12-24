@@ -55,7 +55,7 @@ class HUFF_UTI{
 		}
 		return combine();
 	}
-	public node get_min(){//returns minimum node and deletes it from the vector! //only for internal workings!
+	private node get_min(){//returns minimum node and deletes it from the vector! //only for internal workings!
 		int min=2147483647;
 		int pos=-1;
 		
